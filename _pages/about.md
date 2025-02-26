@@ -6,13 +6,12 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/bacteria-pictorial-2.png)
+I am currently a postdoctoral researcher at the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) and at the [Istituto Nazionale di Oceanografia e di Geofisica Sperimentale](https://www.ogs.it/it) in Trieste, Italy.
+I am a theoretical physicist interested in quantitative biology, ecology and evolutionary theory. 
 
-Welcome! I am a postdoctoral researcher at the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) (in [Jacopo Grilli](https://jacopogrilli.github.io/) group) and at the [Istituto Nazionale di Oceanografia e di Geofisica Sperimentale](https://www.ogs.it/it).
+![](/images/bacteria-pictorial.png)
 
-Themes I am currently working on include links between community dynamics and macro-ecological patterns, microbial ecology and physiology and analysis of stochastic time series.
-
-My background is in theoretical physics, and my PhD focused on nonequilibrium statistical mechanics.
-The focus of my research mostly shifted to its interface with ecology and evolution during my postdocs
-at the [Max Planck Institute for Mathematics in the Science, Leipzig](https://www.mis.mpg.de/) and the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://biosurvey.ku.edu/people/onofrio-mazzarisi)
-in [Reuman Lab](https://reumanlab.ku.edu/).
+Topics I am currently excited to work on include 
+- Links between community dynamics and macro-ecological patterns.
+- The (physiological) causes and (ecological) consequences of self-regulation in (mostly) bacterial monocultures
+- Biodiversity patterns in marine plankton. 
