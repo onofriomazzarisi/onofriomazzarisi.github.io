@@ -12,6 +12,6 @@ I am a theoretical physicist interested in quantitative biology, ecology and evo
 ![](/images/bacteria-pictorial.png)
 
 Topics I am currently excited to work on include 
-- Links between community dynamics and macro-ecological patterns.
-- The (physiological) causes and (ecological) consequences of self-regulation in (mostly) bacterial monocultures.
+- Links between ecological community dynamics and macro-ecological patterns.
+- The physiological causes and ecological consequences of self-regulation in microbial communities.
 - Biodiversity patterns in marine plankton. 
