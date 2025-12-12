@@ -14,4 +14,6 @@ I am a theoretical physicist interested in quantitative biology, community ecolo
 Check out my [Google Scholar](https://scholar.google.com/citations?user=G1WQQN4AAAAJ&hl=en) for my papers and latest preprints.
 
 ![](/images/science.png)
-[Hatton & Mazzarisi _et al._, Diversity begets stability: Sublinear growth and competitive coexistence across ecosystems. _Science_ (2024)](https://www.science.org/doi/full/10.1126/science.adg8488)
+
+
+<small>[Hatton & Mazzarisi _et al._, Diversity begets stability: Sublinear growth and competitive coexistence across ecosystems. _Science_ (2024)](https://www.science.org/doi/full/10.1126/science.adg8488)</small>
