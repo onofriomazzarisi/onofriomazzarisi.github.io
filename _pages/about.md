@@ -10,7 +10,7 @@ I am a postdoctoral researcher at the [Abdus Salam International Centre for Theo
 I am a theoretical physicist interested in quantitative biology, community ecology and evolutionary theory and their interface with statistical mechanics.
 
 The core aim of my research is to understand how individual and population processes cascade
-up to emergent processes such as ecosystem structure and stability and macroecological patterns
+up to emergent processes such as ecosystem structure and stability, and macroecological patterns
 across ecosystems. Throughout, I use a close combination of extensive theory and field and
 experimental data.
 
