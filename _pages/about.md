@@ -13,6 +13,7 @@ The core aim of my research is to understand how individual and population proce
 up to emergent processes such as ecosystem structure and stability and macroecological patterns
 across ecosystems. Throughout, I use a close combination of extensive theory and field and
 experimental data.
+
 ---
 
 Check out my [Google Scholar](https://scholar.google.com/citations?user=G1WQQN4AAAAJ&hl=en) for my papers and latest preprints.
